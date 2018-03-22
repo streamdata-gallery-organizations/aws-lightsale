@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=GetActiveNames&k=1:
+  /?Action=GetActiveNames:
     get:
       summary: ' Get Active Names '
       description: Returns the names of all active (not deleted) resources
