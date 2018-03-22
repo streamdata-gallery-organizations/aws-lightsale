@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=IsVpcPeered&k=1:
+  /?Action=IsVpcPeered:
     get:
       summary: ' Is Vpc Peered '
       description: Returns a Boolean value indicating whether your Lightsail VPC is
