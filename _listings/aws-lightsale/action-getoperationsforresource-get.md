@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=GetOperationsForResource&k=1:
+  /?Action=GetOperationsForResource:
     get:
       summary: ' Get Operations For Resource '
       description: Gets operations for a specific resource (e
