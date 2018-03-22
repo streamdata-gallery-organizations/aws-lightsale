@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=CreateKeyPair&k=1:
+  /?Action=CreateKeyPair:
     get:
       summary: ' Create Key Pair '
       description: Creates sn SSH key pair
