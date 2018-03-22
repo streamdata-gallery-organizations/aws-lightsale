@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=ImportKeyPair&k=1:
+  /?Action=ImportKeyPair:
     get:
       summary: ' Import Key Pair '
       description: Imports a public SSH key from a specific key pair
