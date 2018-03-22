@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=DeleteKeyPair&k=1:
+  /?Action=DeleteKeyPair:
     get:
       summary: ' Delete Key Pair '
       description: Deletes a specific SSH key pair
