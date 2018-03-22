@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=DownloadDefaultKeyPair&k=1:
+  /?Action=DownloadDefaultKeyPair:
     get:
       summary: ' Download Default Key Pair '
       description: Downloads the default SSH key pair from the user's account
