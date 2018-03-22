@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=GetOperation&k=1:
+  /?Action=GetOperation:
     get:
       summary: ' Get Operation '
       description: Returns information about a specific operation
