@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=GetBundles&k=1:
+  /?Action=GetBundles:
     get:
       summary: ' Get Bundles '
       description: Returns the list of bundles that are available for purchase
