@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=PeerVpc&k=1:
+  /?Action=PeerVpc:
     get:
       summary: ' Peer Vpc '
       description: Tries to peer the Lightsail VPC with the user's default VPC
