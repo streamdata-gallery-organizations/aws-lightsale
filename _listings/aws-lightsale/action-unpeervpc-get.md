@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=UnpeerVpc&k=1:
+  /?Action=UnpeerVpc:
     get:
       summary: ' Unpeer Vpc '
       description: Attempts to unpeer the Lightsail VPC from the user's default VPC
