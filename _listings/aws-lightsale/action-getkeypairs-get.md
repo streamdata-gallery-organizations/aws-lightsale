@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=GetKeyPairs&k=1:
+  /?Action=GetKeyPairs:
     get:
       summary: ' Get Key Pairs '
       description: Returns information about all key pairs in the user's account
