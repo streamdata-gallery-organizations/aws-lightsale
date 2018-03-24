@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: aws-lightsale.api.streamdata.gallery
+title: Streamdata Gallery AWS Lightsale
+url: aws-lightsale.streamdata.gallery
 tag: AWS Lightsale
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: aws-lightsale
 github_branch: master
 collections:
