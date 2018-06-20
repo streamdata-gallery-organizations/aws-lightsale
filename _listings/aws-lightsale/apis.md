@@ -9,10 +9,10 @@ description: Amazon Lightsail is the easiest way to get started with AWS for dev
   interface (CLI).
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-lightsail.png
 x-kinRank: "10"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: AWS Lightsale
-created: "2018-05-24"
-modified: "2018-05-24"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/aws-lightsale/master/_listings/aws-lightsale/apis.md
 specificationVersion: "0.14"
 apis:
