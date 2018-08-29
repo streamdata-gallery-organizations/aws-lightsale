@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - AWS Lightsale",
+	"description": "This is a repository of aws lightsale APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/aws-lightsale.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-29",
+	"url": "http://aws-lightsale.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "AWS Lightsale",
+			"x-api-slug": "aws-lightsale",
+			"description": "Amazon Lightsail is the easiest way to get started with AWS for developers who just need virtual private servers. Lightsail includes everything you need to launch your project quickly - a virtual machine, SSD-based storage, data transfer, DNS management, and a static IP - for a low, predictable price. You manage those Lightsail servers through the Lightsail console or by using the API or command-line interface (CLI).",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-lightsail.png",
+			"humanURL": "https://amazonlightsail.com/",
+			"baseURL": ":///",
+			"tags": "AWS Lightsale",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/aws-lightsale/master/_listings/aws-lightsale/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "AWS Lightsale",
+	"include": [
+		{
+			"name": "AWS Lightsale",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/aws-lightsale/master/_listings/aws-lightsale/apis.yaml"
+		}
+	]
+}
